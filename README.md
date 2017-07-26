@@ -4,7 +4,7 @@ Note that n should be an integer between [1, 10000000].
 
 In order to test, simply run the following command in a terminal:
 ```
-$> time python find_nth_prime.py <number>
+$> time python find_nth_prime.py <n>
 ```
 egs:
 ```
